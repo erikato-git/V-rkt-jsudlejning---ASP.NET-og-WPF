@@ -1,0 +1,86 @@
+﻿@model Obligatorisk_ASP.NET_MVC_.Models.Kunde
+
+@{
+    ViewBag.Title = "Opret bruger";
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Brugernavn, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Brugernavn, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Brugernavn, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.PasswordFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-10" style="padding-left:60px">
+            <label>Bekræft password</label>
+            <input style="margin-left:23px" value="" name="BekræftPasswordInput" type="password" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Opret" class="btn btn-default" />
+            @{
+                if (TempData["buttonval"] == null) { TempData["buttonval"] = ""; }
+
+                if (TempData["buttonval"].Equals("Not found"))
+                {
+                    <p style="color: red">Den indtastede email passer ikke med en kunde i databasen</p>
+                }
+                else if (TempData["buttonval"].Equals("Found"))
+                {
+                    <p style="color: green">Kunden er oprettet</p>
+                }
+                else if (TempData["buttonval"].Equals("Not filled"))
+                {
+                    <p style="color: orangered">Brugernavn og password skal udfyldes</p>
+                }
+                else if (TempData["buttonval"].Equals("Brugeren eksisterer allerede"))
+                {
+                    <p style="color: red">Brugernavnet er allerede taget</p>
+                }
+                else if (TempData["buttonval"].Equals("Password stemmer ikke overens"))
+                {
+                    <p style="color: red">@TempData["buttonval"]</p>
+                }
+
+            }
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Tilbage til log in side", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

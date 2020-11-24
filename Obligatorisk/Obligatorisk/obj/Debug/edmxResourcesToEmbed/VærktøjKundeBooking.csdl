@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VærktøjsudlejningModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BookingSet">
+    <Key>
+      <PropertyRef Name="BookingnummerID" />
+    </Key>
+    <Property Name="BookingnummerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Afhentningstidspunkt" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="AntalDøgn" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="KundeKundenummerID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="KundeSet" Relationship="Self.FK_KundeBooking" FromRole="BookingSet" ToRole="KundeSet" />
+    <NavigationProperty Name="VærktøjSet" Relationship="Self.BookingVærktøj" FromRole="BookingSet" ToRole="VærktøjSet" />
+  </EntityType>
+  <EntityType Name="KundeSet">
+    <Key>
+      <PropertyRef Name="KundenummerID" />
+    </Key>
+    <Property Name="KundenummerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Navn" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Adresse" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Brugernavn" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BookingSet" Relationship="Self.FK_KundeBooking" FromRole="KundeSet" ToRole="BookingSet" />
+  </EntityType>
+  <EntityType Name="VærktøjSet">
+    <Key>
+      <PropertyRef Name="VærktøjID" />
+    </Key>
+    <Property Name="VærktøjID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Navn" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Beskrivelse" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Depositum" Type="Double" Nullable="false" />
+    <Property Name="DøgnPris" Type="Double" Nullable="false" />
+    <NavigationProperty Name="BookingSet" Relationship="Self.BookingVærktøj" FromRole="VærktøjSet" ToRole="BookingSet" />
+  </EntityType>
+  <Association Name="FK_KundeBooking">
+    <End Role="KundeSet" Type="Self.KundeSet" Multiplicity="1" />
+    <End Role="BookingSet" Type="Self.BookingSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KundeSet">
+        <PropertyRef Name="KundenummerID" />
+      </Principal>
+      <Dependent Role="BookingSet">
+        <PropertyRef Name="KundeKundenummerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BookingVærktøj">
+    <End Role="BookingSet" Type="Self.BookingSet" Multiplicity="*" />
+    <End Role="VærktøjSet" Type="Self.VærktøjSet" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="VærktøjsudlejningEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BookingSet" EntityType="Self.BookingSet" />
+    <EntitySet Name="KundeSet" EntityType="Self.KundeSet" />
+    <EntitySet Name="VærktøjSet" EntityType="Self.VærktøjSet" />
+    <AssociationSet Name="FK_KundeBooking" Association="Self.FK_KundeBooking">
+      <End Role="KundeSet" EntitySet="KundeSet" />
+      <End Role="BookingSet" EntitySet="BookingSet" />
+    </AssociationSet>
+    <AssociationSet Name="BookingVærktøj" Association="Self.BookingVærktøj">
+      <End Role="BookingSet" EntitySet="BookingSet" />
+      <End Role="VærktøjSet" EntitySet="VærktøjSet" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

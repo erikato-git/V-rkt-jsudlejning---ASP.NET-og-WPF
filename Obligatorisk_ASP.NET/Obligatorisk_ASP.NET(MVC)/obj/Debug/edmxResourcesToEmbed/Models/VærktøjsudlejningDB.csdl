@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VærktøjsudlejningModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Booking">
+    <Key>
+      <PropertyRef Name="BookingnummerID" />
+    </Key>
+    <Property Name="BookingnummerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Afhentningstidspunkt" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="AntalDøgn" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Kunde" Relationship="VærktøjsudlejningModel.KundeBooking" FromRole="Booking" ToRole="Kunde" />
+    <Property Name="KundeKundenummerID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Værktøj" Relationship="VærktøjsudlejningModel.BookingVærktøj" FromRole="Booking" ToRole="Værktøj" />
+  </EntityType>
+  <EntityType Name="Kunde">
+    <Key>
+      <PropertyRef Name="KundenummerID" />
+    </Key>
+    <Property Name="KundenummerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Navn" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Adresse" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Brugernavn" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Booking" Relationship="VærktøjsudlejningModel.KundeBooking" FromRole="Kunde" ToRole="Booking" />
+  </EntityType>
+  <EntityType Name="Værktøj">
+    <Key>
+      <PropertyRef Name="VærktøjID" />
+    </Key>
+    <Property Name="VærktøjID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Navn" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Beskrivelse" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Depositum" Type="Double" Nullable="false" />
+    <Property Name="DøgnPris" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Booking" Relationship="VærktøjsudlejningModel.BookingVærktøj" FromRole="Værktøj" ToRole="Booking" />
+  </EntityType>
+  <EntityContainer Name="VærktøjsudlejningEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BookingSet" EntityType="VærktøjsudlejningModel.Booking" />
+    <EntitySet Name="KundeSet" EntityType="VærktøjsudlejningModel.Kunde" />
+    <EntitySet Name="VærktøjSet" EntityType="VærktøjsudlejningModel.Værktøj" />
+    <AssociationSet Name="KundeBooking" Association="VærktøjsudlejningModel.KundeBooking">
+      <End Role="Kunde" EntitySet="KundeSet" />
+      <End Role="Booking" EntitySet="BookingSet" />
+    </AssociationSet>
+    <AssociationSet Name="BookingVærktøj" Association="VærktøjsudlejningModel.BookingVærktøj">
+      <End Role="Booking" EntitySet="BookingSet" />
+      <End Role="Værktøj" EntitySet="VærktøjSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="KundeBooking">
+    <End Type="VærktøjsudlejningModel.Kunde" Role="Kunde" Multiplicity="1" />
+    <End Type="VærktøjsudlejningModel.Booking" Role="Booking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kunde">
+        <PropertyRef Name="KundenummerID" />
+      </Principal>
+      <Dependent Role="Booking">
+        <PropertyRef Name="KundeKundenummerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BookingVærktøj">
+    <End Type="VærktøjsudlejningModel.Booking" Role="Booking" Multiplicity="*" />
+    <End Type="VærktøjsudlejningModel.Værktøj" Role="Værktøj" Multiplicity="*" />
+  </Association>
+</Schema>

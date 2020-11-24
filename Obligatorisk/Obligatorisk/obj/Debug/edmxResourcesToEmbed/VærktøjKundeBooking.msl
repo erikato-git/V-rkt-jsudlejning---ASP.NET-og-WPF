@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VærktøjsudlejningModelStoreContainer" CdmEntityContainer="VærktøjsudlejningEntities2">
+    <EntitySetMapping Name="BookingSet">
+      <EntityTypeMapping TypeName="IsTypeOf(VærktøjsudlejningModel.BookingSet)">
+        <MappingFragment StoreEntitySet="BookingSet">
+          <ScalarProperty Name="BookingnummerID" ColumnName="BookingnummerID" />
+          <ScalarProperty Name="Afhentningstidspunkt" ColumnName="Afhentningstidspunkt" />
+          <ScalarProperty Name="AntalDøgn" ColumnName="AntalDøgn" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="KundeKundenummerID" ColumnName="KundeKundenummerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KundeSet">
+      <EntityTypeMapping TypeName="IsTypeOf(VærktøjsudlejningModel.KundeSet)">
+        <MappingFragment StoreEntitySet="KundeSet">
+          <ScalarProperty Name="KundenummerID" ColumnName="KundenummerID" />
+          <ScalarProperty Name="Navn" ColumnName="Navn" />
+          <ScalarProperty Name="Adresse" ColumnName="Adresse" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Brugernavn" ColumnName="Brugernavn" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VærktøjSet">
+      <EntityTypeMapping TypeName="IsTypeOf(VærktøjsudlejningModel.VærktøjSet)">
+        <MappingFragment StoreEntitySet="VærktøjSet">
+          <ScalarProperty Name="VærktøjID" ColumnName="VærktøjID" />
+          <ScalarProperty Name="Navn" ColumnName="Navn" />
+          <ScalarProperty Name="Beskrivelse" ColumnName="Beskrivelse" />
+          <ScalarProperty Name="Depositum" ColumnName="Depositum" />
+          <ScalarProperty Name="DøgnPris" ColumnName="DøgnPris" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="BookingVærktøj" TypeName="VærktøjsudlejningModel.BookingVærktøj" StoreEntitySet="BookingVærktøj">
+      <EndProperty Name="BookingSet">
+        <ScalarProperty Name="BookingnummerID" ColumnName="BookingSet_BookingnummerID" />
+      </EndProperty>
+      <EndProperty Name="VærktøjSet">
+        <ScalarProperty Name="VærktøjID" ColumnName="VærktøjSet_VærktøjID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,133 @@
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.exe
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.pdb
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csprojAssemblyReference.cache
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\MainWindow.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\App.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_MarkupCompile.cache
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_MarkupCompile.lref
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\MainWindow.baml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.g.resources
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.Properties.Resources.resources
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.GenerateResource.cache
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.CoreCompileInputs.cache
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.exe
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.pdb
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\UC1OpretKundeWindow.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\UC2RedigerKundeWindow.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\UC3VisBookingerWindow.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_Content.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\UC1OpretKundeWindow.baml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\UC2RedigerKundeWindow.baml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\UC3VisBookingerWindow.baml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.CopyComplete
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.exe.config
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.exe
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.pdb
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.dll
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.SqlServer.dll
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.xml
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.SqlServer.xml
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csprojAssemblyReference.cache
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\MainWindow.g.cs
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\UC1OpretKundeWindow.g.cs
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\App.g.cs
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_Content.g.cs
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_MarkupCompile.cache
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_MarkupCompile.lref
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\MainWindow.baml
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\UC1OpretKundeWindow.baml
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.g.resources
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.Properties.Resources.resources
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.GenerateResource.cache
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.CoreCompileInputs.cache
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.CopyComplete
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.exe
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.pdb
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\UC2RedigerKundeWindow.g.cs
+P:\4. semester\C#\Obligatorisk WPF\Obligatorisk\Obligatorisk\obj\Debug\UC2RedigerKundeWindow.baml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.exe.config
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.exe
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.pdb
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.SqlServer.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.SqlServer.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csprojAssemblyReference.cache
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\MainWindow.g.cs
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\UC1OpretKundeWindow.g.cs
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\UC2RedigerKundeWindow.g.cs
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\App.g.cs
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_Content.g.cs
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_MarkupCompile.cache
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_MarkupCompile.lref
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\MainWindow.baml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\UC1OpretKundeWindow.baml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\UC2RedigerKundeWindow.baml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.g.resources
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.Properties.Resources.resources
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.GenerateResource.cache
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.CoreCompileInputs.cache
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.CopyComplete
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.exe
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.pdb
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\UC3VisBookingerWindow.g.cs
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk\Obligatorisk\obj\Debug\UC3VisBookingerWindow.baml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.exe
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.pdb
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csprojAssemblyReference.cache
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\MainWindow.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC1OpretKundeWindow.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC2RedigerKundeWindow.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC3VisBookingerWindow.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\App.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_Content.g.cs
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_MarkupCompile.cache
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_MarkupCompile.lref
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\MainWindow.baml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC1OpretKundeWindow.baml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC2RedigerKundeWindow.baml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC3VisBookingerWindow.baml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.g.resources
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.Properties.Resources.resources
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.GenerateResource.cache
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.CoreCompileInputs.cache
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.CopyComplete
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.exe
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.pdb
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csprojAssemblyReference.cache
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\MainWindow.g.cs
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC1OpretKundeWindow.g.cs
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC2RedigerKundeWindow.g.cs
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC3VisBookingerWindow.g.cs
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\App.g.cs
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_Content.g.cs
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_MarkupCompile.cache
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk_MarkupCompile.lref
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.exe
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.pdb
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.exe.config
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.exe
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\Obligatorisk.pdb
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.dll
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.SqlServer.dll
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.xml
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\bin\Debug\EntityFramework.SqlServer.xml
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\MainWindow.baml
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC1OpretKundeWindow.baml
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC2RedigerKundeWindow.baml
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\UC3VisBookingerWindow.baml
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.g.resources
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.Properties.Resources.resources
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.GenerateResource.cache
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.CoreCompileInputs.cache
+P:\Aflevering i C#\Obligatorisk\Obligatorisk\obj\Debug\Obligatorisk.csproj.CopyComplete

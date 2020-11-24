@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+<body style="background-image: url('../../Images/Background-image4.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed">    
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+
+        <div style="padding-left:88%">
+            @if (Session["User"] != null)
+            {
+                <h3 style="color:white">Bruger: @Session["User"]</h3>
+            }
+        </div>
+
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Værktøjsbookingsystem</p>
+        </footer>
+    </div>
+
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", required: false)
+</body>
+</html>

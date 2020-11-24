@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Obligatorisk_ASP.NET_MVC_.Models.Booking>
+
+@if (Session["user"] == null)
+{
+    <p>@Html.ActionLink("Log ind", "Index", "Home")</p>
+}
+else
+{
+    <h2>Velkommen, @Session["user"]</h2>
+
+    <label style="margin-top: 1.5%;font-size:medium">Angiv ønsket periode for udlejningen af værktøj:</label>
+
+    <form>
+        <label>Fra:</label>
+        <input value="Fra" name="DateFra" type="date" />
+        <label>Til:</label>
+        <input value="Til" name="DateTil" type="date" />
+        <input type="submit" value="Søg" formmethod="get" formaction=@Url.Action("Søg") />
+        @{
+            if (TempData["SearchError"] == null) { TempData["SearchError"] = ""; }
+
+            if (TempData["SearchError"].Equals("Ugyldig"))
+            {
+                <p style="color: red">Datoerne er ugyldige.</p>
+            }
+        }
+    </form>
+
+    <h3>Reserveringer:</h3>
+    <table class="table table-bordered table-striped" style="font-size:medium">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Afhentningstidspunkt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AntalDøgn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Kunde.Navn)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Afhentningstidspunkt.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AntalDøgn)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kunde.Navn)
+                </td>
+                <td>
+                    @{
+                        if (item.Status.Equals("reserveret"))
+                        {
+                            @Html.ActionLink("Delete", "Delete", new { id = item.BookingnummerID })
+                        }
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+
+
+    @Html.ActionLink("Log ud", "Logout", "Home")
+
+}
+
+
+
+
+

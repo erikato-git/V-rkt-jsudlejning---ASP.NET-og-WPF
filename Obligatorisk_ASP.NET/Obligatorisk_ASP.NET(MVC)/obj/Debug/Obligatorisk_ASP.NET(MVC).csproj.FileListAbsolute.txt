@@ -1,0 +1,415 @@
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).dll.config
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).pdb
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.exe
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.exe.config
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.rsp
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.exe
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.exe.config
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.rsp
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Managed.Core.targets
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Win32.Primitives.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.AppContext.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Collections.Immutable.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Console.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.StackTrace.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Globalization.Calendars.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.Compression.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.Compression.ZipFile.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.FileSystem.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Net.Http.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Net.Sockets.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Reflection.Metadata.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Text.Encoding.CodePages.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.ValueTuple.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.ReaderWriter.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XmlDocument.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XPath.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XPath.XDocument.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.exe
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.exe.config
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.rsp
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\VBCSCompiler.exe
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\VBCSCompiler.exe.config
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Antlr3.Runtime.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.SqlServer.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.Web.Infrastructure.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Newtonsoft.Json.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Helpers.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Mvc.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Optimization.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Razor.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Deployment.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Razor.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\WebGrease.dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.SqlServer.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Helpers.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Mvc.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Optimization.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Razor.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Deployment.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Razor.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Newtonsoft.Json.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Antlr3.Runtime.pdb
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csprojAssemblyReference.cache
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csproj.CoreCompileInputs.cache
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csproj.CopyComplete
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).dll
+P:\4. semester\C#\Byggemarked---WPF-og-ASP.NET\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).pdb
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).dll.config
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).pdb
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.exe
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.rsp
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.exe
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.rsp
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.AppContext.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Console.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.Compression.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Net.Http.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Net.Sockets.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.ValueTuple.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.exe
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.rsp
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\VBCSCompiler.exe
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Antlr3.Runtime.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.SqlServer.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Newtonsoft.Json.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Helpers.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Mvc.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Optimization.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Razor.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Razor.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\WebGrease.dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.SqlServer.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Helpers.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Mvc.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Optimization.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Razor.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Razor.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Newtonsoft.Json.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Antlr3.Runtime.pdb
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csprojAssemblyReference.cache
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csproj.CoreCompileInputs.cache
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csproj.CopyComplete
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).dll
+C:\Users\erikk\OneDrive\Skrivebord\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).pdb
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).dll.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).pdb
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.exe
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.rsp
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.exe
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.rsp
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.AppContext.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Console.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.Compression.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Net.Http.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Net.Sockets.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.ValueTuple.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.exe
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.rsp
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\VBCSCompiler.exe
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Antlr3.Runtime.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.SqlServer.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Newtonsoft.Json.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Helpers.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Mvc.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Optimization.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Razor.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Razor.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\WebGrease.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.SqlServer.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Helpers.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Mvc.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Optimization.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Razor.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Razor.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Newtonsoft.Json.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Antlr3.Runtime.pdb
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csprojAssemblyReference.cache
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csproj.CoreCompileInputs.cache
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csproj.CopyComplete
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).pdb
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).dll.config
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).pdb
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.exe
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.exe.config
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.rsp
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.exe
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.exe.config
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.rsp
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Managed.Core.targets
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Win32.Primitives.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.AppContext.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Collections.Immutable.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Console.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.StackTrace.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Globalization.Calendars.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.Compression.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.Compression.ZipFile.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.FileSystem.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Net.Http.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Net.Sockets.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Reflection.Metadata.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Text.Encoding.CodePages.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.ValueTuple.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.ReaderWriter.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XmlDocument.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XPath.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XPath.XDocument.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.exe
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.exe.config
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.rsp
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\VBCSCompiler.exe
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\roslyn\VBCSCompiler.exe.config
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Antlr3.Runtime.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.SqlServer.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.Web.Infrastructure.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Newtonsoft.Json.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Helpers.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Mvc.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Optimization.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Razor.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Deployment.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Razor.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\WebGrease.dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.SqlServer.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Helpers.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Mvc.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Optimization.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Razor.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Deployment.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Razor.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Newtonsoft.Json.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Antlr3.Runtime.pdb
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csprojAssemblyReference.cache
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csproj.CoreCompileInputs.cache
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csproj.CopyComplete
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).dll
+P:\Aflevering i C#\Obligatorisk_ASP.NET(MVC)\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).pdb
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).dll.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\Obligatorisk_ASP.NET(MVC).pdb
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.exe
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csc.rsp
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.exe
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\csi.rsp
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.AppContext.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Console.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.Compression.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Net.Http.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Net.Sockets.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.ValueTuple.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.exe
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\vbc.rsp
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\VBCSCompiler.exe
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\Antlr3.Runtime.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.SqlServer.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\Newtonsoft.Json.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Helpers.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Mvc.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Optimization.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Razor.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Razor.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\WebGrease.dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\EntityFramework.SqlServer.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Helpers.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Mvc.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Optimization.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.Razor.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\System.Web.WebPages.Razor.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\Newtonsoft.Json.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\Antlr3.Runtime.pdb
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csprojAssemblyReference.cache
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csproj.CoreCompileInputs.cache
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).csproj.CopyComplete
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).dll
+C:\Users\erikk\OneDrive\Skrivebord\Aflevering i C#\Obligatorisk_ASP.NET\Obligatorisk_ASP.NET(MVC)\obj\Debug\Obligatorisk_ASP.NET(MVC).pdb

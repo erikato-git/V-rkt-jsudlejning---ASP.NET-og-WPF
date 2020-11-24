@@ -1,0 +1,60 @@
+﻿@model Obligatorisk_ASP.NET_MVC_.Models.Værktøj
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal" style="font-size:larger">
+    <h2>Reserver</h2>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.VærktøjID)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Navn, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Navn)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Beskrivelse, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Beskrivelse)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Depositum, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Depositum)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DøgnPris, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.DøgnPris)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @{
+                    if (TempData["værktøjStatus"] == null) { TempData["værktøjStatus"] = ""; }
+
+                    if (TempData["værktøjStatus"].Equals("Afleveret") || TempData["værktøjStatus"].Equals(""))
+                    {
+                        <input type="submit" value="Bekræft reservation" class="btn btn-default" />
+                    }
+                }
+            </div>
+        </div>
+
+
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

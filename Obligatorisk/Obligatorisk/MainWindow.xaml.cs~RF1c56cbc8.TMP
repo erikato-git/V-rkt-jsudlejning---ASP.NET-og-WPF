@@ -1,0 +1,98 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace Obligatorisk
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public static KundeVærktøjBookingContainer _db;
+
+
+        public MainWindow()
+        {
+            _db = new KundeVærktøjBookingContainer();
+
+            InitializeComponent();
+        }
+
+        // TODO: Gør rede for, hvad denne metode gør godt for
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            _db.Dispose();
+        }
+
+        private void Create_Button_Click(object sender, RoutedEventArgs e)
+        {
+            UC1OpretKundeWindow createWindow = new UC1OpretKundeWindow();
+            createWindow.Show();
+        }
+
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void Edit_Button_Click(object sender, RoutedEventArgs e)
+        {
+            string kundeinfo = KundeinfoTextBox.Text.ToLower();
+            Kunde kundeFound = null;
+            UC2RedigerKundeWindow editWindow = new UC2RedigerKundeWindow();
+
+            foreach (var kunde in _db.KundeSet)
+            {
+                if(kunde.Navn.Equals(kundeinfo))
+                {
+                    kundeFound = _db.KundeSet.First(x => x.Navn.Equals(kundeinfo));
+                    editWindow.Show(kundeFound); 
+                    break;
+                }
+                else if (kunde.Email.Equals(kundeinfo))
+                {
+                    kundeFound = _db.KundeSet.First(x => x.Email.Equals(kundeinfo));
+                    editWindow.Show(kundeFound);
+                    break;
+                }
+                else if(kunde.KundenummerID == int.Parse(kundeinfo))
+                {
+                    kundeFound = _db.KundeSet.First(x => x.KundenummerID.Equals(kundeinfo));
+                    editWindow.Show(kundeFound);
+                    break;
+                }
+                else
+                {
+                    MessageBox.Show("Kunden blev ikke fundet");
+                    break;
+                }
+            }
+
+        }
+
+        private void ShowBookings_Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Delete_Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+    }
+
+}

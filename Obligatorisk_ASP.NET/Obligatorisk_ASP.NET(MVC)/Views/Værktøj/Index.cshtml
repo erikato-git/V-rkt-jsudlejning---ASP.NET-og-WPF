@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Obligatorisk_ASP.NET_MVC_.Models.Værktøj>
+
+<h2>Værktøjskatalog:</h2>
+
+<table class="table table-bordered table-striped" style="font-size:medium">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Navn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Beskrivelse)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Depositum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DøgnPris)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Navn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Beskrivelse)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Depositum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DøgnPris)
+            </td>
+            <td>
+                @Html.ActionLink("Reserver", "Reserver", new { id = item.VærktøjID })
+            </td>
+        </tr>
+    }
+
+</table>

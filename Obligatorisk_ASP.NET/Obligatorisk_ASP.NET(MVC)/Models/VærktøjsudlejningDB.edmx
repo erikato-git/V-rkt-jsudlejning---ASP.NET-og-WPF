@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="VærktøjsudlejningModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="VærktøjsudlejningModelStoreContainer">
+    <EntitySet Name="BookingSet" EntityType="VærktøjsudlejningModel.Store.BookingSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="KundeSet" EntityType="VærktøjsudlejningModel.Store.KundeSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="VærktøjSet" EntityType="VærktøjsudlejningModel.Store.VærktøjSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BookingVærktøj" EntityType="VærktøjsudlejningModel.Store.BookingVærktøj" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="KundeBooking" Association="VærktøjsudlejningModel.Store.KundeBooking">
+      <End Role="Kunde" EntitySet="KundeSet" />
+      <End Role="Booking" EntitySet="BookingSet" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BookingVærktøj_Booking" Association="VærktøjsudlejningModel.Store.FK_BookingVærktøj_Booking">
+      <End Role="Booking" EntitySet="BookingSet" />
+      <End Role="BookingVærktøj" EntitySet="BookingVærktøj" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BookingVærktøj_Værktøj" Association="VærktøjsudlejningModel.Store.FK_BookingVærktøj_Værktøj">
+      <End Role="Værktøj" EntitySet="VærktøjSet" />
+      <End Role="BookingVærktøj" EntitySet="BookingVærktøj" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="BookingSet">
+    <Key>
+      <PropertyRef Name="BookingnummerID" />
+    </Key>
+    <Property Name="BookingnummerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Afhentningstidspunkt" Type="datetime" Nullable="false" />
+    <Property Name="AntalDøgn" Type="int" Nullable="false" />
+    <Property Name="Status" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="KundeKundenummerID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="KundeSet">
+    <Key>
+      <PropertyRef Name="KundenummerID" />
+    </Key>
+    <Property Name="KundenummerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Navn" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Adresse" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Brugernavn" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Password" Type="nvarchar(max)" Nullable="true" />
+  </EntityType>
+  <EntityType Name="VærktøjSet">
+    <Key>
+      <PropertyRef Name="VærktøjID" />
+    </Key>
+    <Property Name="VærktøjID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Navn" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Beskrivelse" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Depositum" Type="float" Nullable="false" />
+    <Property Name="DøgnPris" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BookingVærktøj">
+    <Key>
+      <PropertyRef Name="Booking_BookingnummerID" />
+      <PropertyRef Name="Værktøj_VærktøjID" />
+    </Key>
+    <Property Name="Booking_BookingnummerID" Type="int" Nullable="false" />
+    <Property Name="Værktøj_VærktøjID" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="KundeBooking">
+    <End Role="Kunde" Type="VærktøjsudlejningModel.Store.KundeSet" Multiplicity="1" />
+    <End Role="Booking" Type="VærktøjsudlejningModel.Store.BookingSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kunde">
+        <PropertyRef Name="KundenummerID" />
+      </Principal>
+      <Dependent Role="Booking">
+        <PropertyRef Name="KundeKundenummerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BookingVærktøj_Booking">
+    <End Role="Booking" Type="VærktøjsudlejningModel.Store.BookingSet" Multiplicity="1" />
+    <End Role="BookingVærktøj" Type="VærktøjsudlejningModel.Store.BookingVærktøj" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Booking">
+        <PropertyRef Name="BookingnummerID" />
+      </Principal>
+      <Dependent Role="BookingVærktøj">
+        <PropertyRef Name="Booking_BookingnummerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BookingVærktøj_Værktøj">
+    <End Role="BookingVærktøj" Type="VærktøjsudlejningModel.Store.BookingVærktøj" Multiplicity="*" />
+    <End Role="Værktøj" Type="VærktøjsudlejningModel.Store.VærktøjSet" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Værktøj">
+        <PropertyRef Name="VærktøjID" />
+      </Principal>
+      <Dependent Role="BookingVærktøj">
+        <PropertyRef Name="Værktøj_VærktøjID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="VærktøjsudlejningModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Booking">
+          <Key>
+            <PropertyRef Name="BookingnummerID" />
+          </Key>
+          <Property Name="BookingnummerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Afhentningstidspunkt" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="AntalDøgn" Type="Int32" Nullable="false" />
+          <Property Name="Status" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Kunde" Relationship="VærktøjsudlejningModel.KundeBooking" FromRole="Booking" ToRole="Kunde" />
+          <Property Name="KundeKundenummerID" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Værktøj" Relationship="VærktøjsudlejningModel.BookingVærktøj" FromRole="Booking" ToRole="Værktøj" />
+        </EntityType>
+        <EntityType Name="Kunde">
+          <Key>
+            <PropertyRef Name="KundenummerID" />
+          </Key>
+          <Property Name="KundenummerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Navn" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Adresse" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Brugernavn" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Booking" Relationship="VærktøjsudlejningModel.KundeBooking" FromRole="Kunde" ToRole="Booking" />
+        </EntityType>
+        <EntityType Name="Værktøj">
+          <Key>
+            <PropertyRef Name="VærktøjID" />
+          </Key>
+          <Property Name="VærktøjID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Navn" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Beskrivelse" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Depositum" Type="Double" Nullable="false" />
+          <Property Name="DøgnPris" Type="Double" Nullable="false" />
+          <NavigationProperty Name="Booking" Relationship="VærktøjsudlejningModel.BookingVærktøj" FromRole="Værktøj" ToRole="Booking" />
+        </EntityType>
+        <EntityContainer Name="VærktøjsudlejningEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="BookingSet" EntityType="VærktøjsudlejningModel.Booking" />
+          <EntitySet Name="KundeSet" EntityType="VærktøjsudlejningModel.Kunde" />
+          <EntitySet Name="VærktøjSet" EntityType="VærktøjsudlejningModel.Værktøj" />
+          <AssociationSet Name="KundeBooking" Association="VærktøjsudlejningModel.KundeBooking">
+            <End Role="Kunde" EntitySet="KundeSet" />
+            <End Role="Booking" EntitySet="BookingSet" />
+          </AssociationSet>
+          <AssociationSet Name="BookingVærktøj" Association="VærktøjsudlejningModel.BookingVærktøj">
+            <End Role="Booking" EntitySet="BookingSet" />
+            <End Role="Værktøj" EntitySet="VærktøjSet" />
+          </AssociationSet>
+        </EntityContainer>
+        <Association Name="KundeBooking">
+          <End Type="VærktøjsudlejningModel.Kunde" Role="Kunde" Multiplicity="1" />
+          <End Type="VærktøjsudlejningModel.Booking" Role="Booking" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Kunde">
+              <PropertyRef Name="KundenummerID" />
+            </Principal>
+            <Dependent Role="Booking">
+              <PropertyRef Name="KundeKundenummerID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="BookingVærktøj">
+          <End Type="VærktøjsudlejningModel.Booking" Role="Booking" Multiplicity="*" />
+          <End Type="VærktøjsudlejningModel.Værktøj" Role="Værktøj" Multiplicity="*" />
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VærktøjsudlejningModelStoreContainer" CdmEntityContainer="VærktøjsudlejningEntities">
+    <EntitySetMapping Name="BookingSet">
+      <EntityTypeMapping TypeName="IsTypeOf(VærktøjsudlejningModel.Booking)">
+        <MappingFragment StoreEntitySet="BookingSet">
+          <ScalarProperty Name="BookingnummerID" ColumnName="BookingnummerID" />
+          <ScalarProperty Name="Afhentningstidspunkt" ColumnName="Afhentningstidspunkt" />
+          <ScalarProperty Name="AntalDøgn" ColumnName="AntalDøgn" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="KundeKundenummerID" ColumnName="KundeKundenummerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KundeSet">
+      <EntityTypeMapping TypeName="IsTypeOf(VærktøjsudlejningModel.Kunde)">
+        <MappingFragment StoreEntitySet="KundeSet">
+          <ScalarProperty Name="KundenummerID" ColumnName="KundenummerID" />
+          <ScalarProperty Name="Navn" ColumnName="Navn" />
+          <ScalarProperty Name="Adresse" ColumnName="Adresse" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Brugernavn" ColumnName="Brugernavn" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VærktøjSet">
+      <EntityTypeMapping TypeName="IsTypeOf(VærktøjsudlejningModel.Værktøj)">
+        <MappingFragment StoreEntitySet="VærktøjSet">
+          <ScalarProperty Name="VærktøjID" ColumnName="VærktøjID" />
+          <ScalarProperty Name="Navn" ColumnName="Navn" />
+          <ScalarProperty Name="Beskrivelse" ColumnName="Beskrivelse" />
+          <ScalarProperty Name="Depositum" ColumnName="Depositum" />
+          <ScalarProperty Name="DøgnPris" ColumnName="DøgnPris" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="BookingVærktøj" TypeName="VærktøjsudlejningModel.BookingVærktøj" StoreEntitySet="BookingVærktøj">
+      <EndProperty Name="Booking">
+        <ScalarProperty Name="BookingnummerID" ColumnName="Booking_BookingnummerID" />
+      </EndProperty>
+      <EndProperty Name="Værktøj">
+        <ScalarProperty Name="VærktøjID" ColumnName="Værktøj_VærktøjID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram DiagramId="f32215131e754e75870d50173acb1143" Name="Diagram1">
+        <EntityTypeShape EntityType="VærktøjsudlejningModel.Booking" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="VærktøjsudlejningModel.Kunde" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="VærktøjsudlejningModel.Værktøj" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="VærktøjsudlejningModel.KundeBooking" />
+        <AssociationConnector Association="VærktøjsudlejningModel.BookingVærktøj" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

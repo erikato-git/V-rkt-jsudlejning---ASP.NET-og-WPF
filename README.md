@@ -2,7 +2,7 @@ Dette var en obligatorisk aflevering i kurset C# på datamatiker-uddannelsen EAA
 
 Mappen ”Obligatorisk” indeholder desktop-applikationen implementeret i WPF.
 
-Mappen ”Obligatorisk_ASP.NET” indeholder webapplikationen implementeret i APS.NET (framework).
+Mappen ”Obligatorisk_ASP.NET” indeholder webapplikationen implementeret i ASP.NET (framework).
 
 Default kunde:
 -	Navn: k1, Brugernavn: k1user, Adgangskode: 123 

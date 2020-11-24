@@ -36,27 +36,6 @@ namespace Obligatorisk_ASP.NET_MVC_.Controllers
 
                 if (kunde != null)
                 {
-                    //Test data til at vise at der selektere på Bookinger med status afleveret, når man angiver tidsrum for søgningen
-
-                    //Booking b1 = new Booking() { Afhentningstidspunkt = DateTime.Now.Date.AddDays(-1), AntalDøgn = 2, Status = "udlejet", KundeKundenummerID = kunde.KundenummerID };
-                    //Booking b2 = new Booking() { Afhentningstidspunkt = DateTime.Now.Date, AntalDøgn = 2, Status = "afleveret", KundeKundenummerID = kunde.KundenummerID };
-                    //Booking b3 = new Booking() { Afhentningstidspunkt = DateTime.Now.Date, AntalDøgn = 2, Status = "reserveret", KundeKundenummerID = kunde.KundenummerID };
-                    //Booking b4 = new Booking() { Afhentningstidspunkt = DateTime.Now.Date, AntalDøgn = 2, Status = "udlejet", KundeKundenummerID = kunde.KundenummerID };
-                    //Værktøj v1 = new Værktøj() { Navn = "Sav", Beskrivelse = "til træ", Depositum = 200.0, DøgnPris = 40.0 };
-                    //Værktøj v2 = new Værktøj() { Navn = "Hammer", Beskrivelse = "til træ", Depositum = 200.0, DøgnPris = 40.0 };
-                    //Værktøj v3 = new Værktøj() { Navn = "Skruetrækker", Beskrivelse = "til træ", Depositum = 200.0, DøgnPris = 40.0 };
-                    //Værktøj v4 = new Værktøj() { Navn = "Søm", Beskrivelse = "til træ", Depositum = 200.0, DøgnPris = 40.0 };
-
-                    //b1.Værktøj.Add(v1);
-                    //b2.Værktøj.Add(v2);
-                    //b3.Værktøj.Add(v3);
-                    //b4.Værktøj.Add(v4);
-
-                    //kunde.Booking.Add(b1);
-                    //kunde.Booking.Add(b2);
-                    //kunde.Booking.Add(b3);
-                    //kunde.Booking.Add(b4);
-                    //_db.SaveChanges();
 
                     bookinger = _db.BookingSet.Where(u => u.KundeKundenummerID == kunde.KundenummerID).ToList();
 
